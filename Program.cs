@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-class StudentTCPServer
+class Server
 {
 
     const int MAX_CONNECTION = 10;
@@ -53,19 +53,20 @@ class StudentTCPServer
             Console.WriteLine("Connection received from: {0}",
                               soc.RemoteEndPoint);
             try
-            {
+            {   
                 var stream = new NetworkStream(soc);
                 var reader = new StreamReader(stream);
                 var writer = new StreamWriter(stream);
                 writer.AutoFlush = true;
 
-                writer.WriteLine("Please enter the number (0-10) : ");
+                //writer.WriteLine("Please enter the number (0-10) : ");
 
                 while (true)
                 {
                     string id = reader.ReadLine();
 
-                    if (String.IsNullOrEmpty(id))
+                    if (id.ToUpper() == "EXIT")
+                        writer.WriteLine("bye");
                         break; // disconnect
 
                     if (_data.ContainsKey(id))

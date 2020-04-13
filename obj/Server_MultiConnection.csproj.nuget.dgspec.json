@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LẬP TRÌNH MẠNG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj": {}
+    "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LAP TRINH MANG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj": {}
   },
   "projects": {
-    "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LẬP TRÌNH MẠNG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj": {
+    "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LAP TRINH MANG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LẬP TRÌNH MẠNG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj",
+        "projectUniqueName": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LAP TRINH MANG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj",
         "projectName": "Server_MultiConnection",
-        "projectPath": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LẬP TRÌNH MẠNG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj",
+        "projectPath": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LAP TRINH MANG\\CODE\\Socket_Programing\\Server_MultiConnection\\Server_MultiConnection.csproj",
         "packagesPath": "C:\\Users\\NTK\\.nuget\\packages\\",
-        "outputPath": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LẬP TRÌNH MẠNG\\CODE\\Socket_Programing\\Server_MultiConnection\\obj\\",
+        "outputPath": "E:\\UNI LEARNING\\TAI LIEU KI 2 - 19.20\\LAP TRINH MANG\\CODE\\Socket_Programing\\Server_MultiConnection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NTK\\AppData\\Roaming\\NuGet\\NuGet.Config",

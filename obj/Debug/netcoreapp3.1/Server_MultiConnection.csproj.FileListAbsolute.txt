@@ -9,3 +9,14 @@ C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_
 C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
 C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
 C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
