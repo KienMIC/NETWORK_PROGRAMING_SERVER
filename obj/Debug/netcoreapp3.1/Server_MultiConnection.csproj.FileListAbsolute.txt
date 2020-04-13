@@ -1,0 +1,11 @@
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\NTK\source\repos\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\NTK\source\repos\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
