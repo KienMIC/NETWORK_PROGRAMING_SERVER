@@ -66,7 +66,6 @@ class Server
                     string id = reader.ReadLine();
 
                     if (id.ToUpper() == "EXIT")
-                        writer.WriteLine("bye");
                         break; // disconnect
 
                     if (_data.ContainsKey(id))
