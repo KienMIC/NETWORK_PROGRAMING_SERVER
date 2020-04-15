@@ -66,7 +66,11 @@ class Server
                     string id = reader.ReadLine();
 
                     if (id.ToUpper() == "EXIT")
+                    {
+                        writer.WriteLine("BYE");
                         break; // disconnect
+                    }
+                        
 
                     if (_data.ContainsKey(id))
                         writer.WriteLine("Number you've entered: '{0}'", _data[id]);
