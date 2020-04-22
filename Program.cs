@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
+using System.Text;
 using System.Threading;
 
 class Server
 {
+    
 
-    const int MAX_CONNECTION = 10;
+    const int MAX_CONNECTION = 100;
     const int PORT_NUMBER = 9999;
 
     static TcpListener listener;
@@ -52,12 +54,17 @@ class Server
 
             Console.WriteLine("Connection received from: {0}",
                               soc.RemoteEndPoint);
+            StringBuilder sb = new StringBuilder();
+            sb.Append("IP:Port of Client: "+soc.RemoteEndPoint+";"+"Connect At: "+DateTime.Now);
+            File.AppendAllText("D://Access.log", sb.ToString());
+            sb.Clear();
             try
             {   
                 var stream = new NetworkStream(soc);
                 var reader = new StreamReader(stream);
                 var writer = new StreamWriter(stream);
                 writer.AutoFlush = true;
+                
 
                 //writer.WriteLine("Please enter the number (0-10) : ");
 
@@ -68,6 +75,9 @@ class Server
                     if (id.ToUpper() == "EXIT")
                     {
                         writer.WriteLine("BYE");
+                        sb.Append(";Disconnect At: " + DateTime.Now+";"+"Reason: Closed By Client\n");
+                        File.AppendAllText("D://access.log", sb.ToString());
+                        sb.Clear();
                         break; // disconnect
                     }
                         
